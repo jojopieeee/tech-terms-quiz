@@ -1,8 +1,8 @@
 # tech-terms-quiz
-A console-based Java quiz app that tests knowledge of key technology terms and concepts.
+A console-based Java quiz quiz that tests knowledge of key technology terms and concepts.
 # Tech-Term Quiz (Java)
 
-A simple quiz game built in Java to test fundamental technology and computing knowledge.
+Its simple quiz game built in Java to test fundamental technology and computing knowledge. As a beginner in coding this is my first project to test all the skills I have learnt so far. feel free to offer improvements.
 
 ## Project Overview
 This beginner-friendly project demonstrates basic Java programming concepts such as:
@@ -25,5 +25,5 @@ The quiz will contain multiple-choice tech questions and display the user's fina
 
 ## 👩🏽‍💻 Author
 **Josephine Adeola Abioye**  
-**This is my first project.I'm glad i got to this stage.
+**This is my first project.I'm glad I got to this stage.
 
